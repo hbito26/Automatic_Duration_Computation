@@ -1,6 +1,6 @@
 # Automatic Duration Computation
 
-This project uses 1-dimensional convolutional neural networks (1D CNNs) to automatically compute the durations of earthquakes. For training, the waveform data from the Pacific Northwest Seismic Dataset ([Ni et al., 2023](https://github.com/niyiyu/PNW-ML)) was used.
+This project uses 1-dimensional convolutional neural networks (1D CNNs) to automatically compute the durations of earthquakes. For training, the waveform data from the Pacific Northwest Seismic Dataset ([Ni et al., 2023](https://github.com/niyiyu/PNW-ML)) were used.
 
 The repository includes notebooks for 
 1. Inspecting and characterizing the waveforms
